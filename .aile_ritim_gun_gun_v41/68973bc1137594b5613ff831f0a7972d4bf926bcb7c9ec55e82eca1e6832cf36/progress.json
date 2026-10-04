@@ -474,7 +474,9 @@
     "2026-09-28",
     "2026-09-29"
   ],
-  "final_sizes": [],
-  "updated_at": "2026-10-04T11:27:38",
+  "final_sizes": [
+    2
+  ],
+  "updated_at": "2026-10-04T11:33:05",
   "version": "AILE_RITIM_V4.1_SEPARATE_STATE_REPO"
 }
