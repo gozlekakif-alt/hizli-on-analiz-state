@@ -1,9 +1,9 @@
 {
   "engine_version": "GERCEK20_ANATOMI_V1.0",
   "run_id": "20261006_192409_198377",
-  "processed_count": 1929,
-  "processed_prefix_hash": "3ae8a7458bc8b810507bb59ad7269fe704b4a40f03cd5cbb9e0ac80cf101d1f0",
-  "last_draw_id": 53141,
-  "last_dt": "2026-09-02 21:57",
-  "updated_at": "2026-10-06T20:02:57"
+  "processed_count": 1941,
+  "processed_prefix_hash": "851ea0a271dcbd6807916f7c8d95bd733a347d548560ad6a972b0e7b6f5d10d2",
+  "last_draw_id": 53153,
+  "last_dt": "2026-09-02 22:57",
+  "updated_at": "2026-10-06T20:03:00"
 }
